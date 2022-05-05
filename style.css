@@ -1,3 +1,11 @@
-#shapes {
-  border: 1px solid grey;
-}
+ #shapes{
+        border: 1px solid rgb(0, 0, 0);
+    }
+    html{
+        background-color: black;
+    }
+    body{
+        background-image:url("./img/ciudad.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
